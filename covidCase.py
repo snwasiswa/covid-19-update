@@ -101,6 +101,7 @@ class Coronavirus:
         list_to_display.append("Total recovered: " + str(covid_case.get_total_recovered()) + '\n' + '\n')
         list_to_display.append("Total deaths: " + str(covid_case.get_total_deaths()) + '\n' + '\n')
 
+        # Formatting text display into Text Widget
         for i in range(len(list_to_display)):
 
             if i == end:
@@ -109,7 +110,7 @@ class Coronavirus:
             else:
 
                 for text in list_to_display:
-                    # Configuration of text display
+                    
                     self.text1.tag_configure("center", justify='center')
                     self.text1.tag_add("center", "1.0", "end")
                     self.text1.insert(END, text)
