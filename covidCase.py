@@ -1,6 +1,6 @@
 #######################################################################################
 # Author : Steve Wasiswa
-# The GUI app that helps user get updated on the covid-19 cases worldwide and
+# The GUI app that helps user get updates on the covid-19 cases worldwide and
 # on the specific country
 #######################################################################################
 
