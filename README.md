@@ -9,3 +9,7 @@ The App is compatible with Python 3.X and the following libraries need to be ins
 - Matplotlib
 - tkinter
 
+### Developer Documentation
+
+
+### User Documentation
