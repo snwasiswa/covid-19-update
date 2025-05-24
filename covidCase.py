@@ -150,7 +150,7 @@ class Coronavirus:
         all_countries = []
 
         for country in countries:
-            all_countries.append(country['name'])
+            all_countries.append(country)
 
         return sorted(all_countries)
 
