@@ -1,12 +1,14 @@
 # Covid-19-Update
 
-Coronavirus Update is a GUI app that allows user to get updated on the number of covid-19 cases. The user has the possibility of choosing different countries. Moreover, the user can visualize the cases of every country on a graph.
+Coronavirus Update is a graphical user interface (GUI) application that provides real-time updates on COVID-19 case numbers. Users can select from a variety of countries to view current statistics, and visualize global case data through interactive graphs.
 
-Source data: Johns Hopkins University
+Data Source: Johns Hopkins University
 
-The App is compatible with Python 3.X and the following libraries need to be installed before execution:
-- Covid library
-- Matplotlib
+Compatibility:
+The app is compatible with Python 3.x. Before running the application, ensure the following libraries are installed:
+
+- covid
+- matplotlib
 - tkinter
 
 ### Developer Documentation
